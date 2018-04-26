@@ -1,0 +1,2 @@
+hello:
+  message5: 'From application.yml file in code base'
